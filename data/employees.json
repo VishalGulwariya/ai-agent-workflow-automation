@@ -1,0 +1,21 @@
+[
+  {
+    "id": "EMP-01",
+    "name": "Alice Chen",
+    "skills": [
+      "Python",
+      "FastAPI"
+    ],
+    "active_tasks": 1,
+    "capacity": 4
+  },
+  {
+    "id": "EMP-02",
+    "name": "Bob Miller",
+    "skills": [
+      "React"
+    ],
+    "active_tasks": 4,
+    "capacity": 4
+  }
+]

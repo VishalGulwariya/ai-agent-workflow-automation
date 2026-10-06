@@ -1,0 +1,5 @@
+sku,product_name,current_stock,minimum_stock,reorder_batch_size
+SKU-101,Ergonomic Chair,4,10,15
+SKU-102,Mechanical Keyboard,25,15,20
+SKU-103,USB-C Docking Station,2,8,10
+SKU-104,Wireless Mouse,18,12,25

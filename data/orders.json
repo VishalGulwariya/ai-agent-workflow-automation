@@ -1,0 +1,12 @@
+{
+  "ORD-1001": {
+    "email": "user@example.com",
+    "items": [
+      "Desk Mat",
+      "Keyboard"
+    ],
+    "status": "Shipped",
+    "tracking": "TRK-9901",
+    "carrier": "FedEx"
+  }
+}
